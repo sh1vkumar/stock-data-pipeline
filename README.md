@@ -51,6 +51,7 @@ Produced: {'type': 'trade', 'data': [{'p': 134.5, 's': 'AAPL', ...}]}
 Consumer:
 ✔ Received: {'type': 'trade', 'data': [...]} → Inserted into MongoDB
 
+```
 ---
 
 🙌 Acknowledgements
