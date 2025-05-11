@@ -15,11 +15,14 @@ This project fetches real-time stock data using the [Finnhub API](https://finnhu
 ---
 
 ## 🗂️ Project Structure
-.
+
 ├── docker-compose.yml             # Kafka, Zookeeper, MongoDB services
+
 ├── kafka/
 │   └── create_topic.sh            # Script to create Kafka topic
+
 ├── producer/
+
 │   ├── producer.py                # Connects to Finnhub WebSocket and produces to Kafka
 │   └── .env                       # API key and bootstrap server details
 ├── consumer/
