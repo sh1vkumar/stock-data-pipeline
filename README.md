@@ -52,6 +52,6 @@ Consumer:
 ---
 
 🙌 Acknowledgements
-    •   Finnhub.io
-	•	Apache Kafka
-	•	MongoDB
+- Finnhub.io
+- Apache Kafka
+- MongoDB
