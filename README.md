@@ -15,7 +15,7 @@ This project fetches real-time stock data using the [Finnhub API](https://finnhu
 ---
 
 ## 🗂️ Project Structure
-
+```
 ├── docker-compose.yml             # Kafka, Zookeeper, MongoDB services
 
 ├── kafka/
@@ -29,7 +29,7 @@ This project fetches real-time stock data using the [Finnhub API](https://finnhu
 │   └── consumer_kafka_mongo.py    # Consumes from Kafka and inserts into MongoDB
 ├── requirements.txt               # Python dependencies
 └── README.md                      # You are here
-
+```
 ---
 
 ## 🐳 Docker Setup for Kafka & MongoDB
